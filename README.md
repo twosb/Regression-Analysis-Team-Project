@@ -2,8 +2,8 @@
 ```Kaggle Data : Zillow’s Home Value Prediction를 사용한 회귀분석 프로젝트```
 </br>
 
-<img src="readme_img/title.png" width="650" align="center">
-<img src="readme_img/description.png" width="650" align="center">
+<img src="readme_img/title.png" width="700" align="center">
+<img src="readme_img/description.png" width="700" align="center">
 </br>
 
 ## [ 활동 일지 ]
