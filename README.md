@@ -39,8 +39,5 @@
 - *2018/06/29 (금)*
 	- 팀원들의 현재까지의 작업물을 TeamResult.ipynb에 종합하기 위해 각자의 작업을 정리
 
-<<<<<<< HEAD
-- git 협업을 배우자
-=======
-jpoafjspeogfjpoweajpof
->>>>>>> 93fe673998b107ad57833e37d38a335674427775
+- *2018/06/30 (토)*
+	- 각자 정리한 현재까지의 작업물을 TeamResult.ipynb에 종합하기 위해 GitHub에 각각의 TeamResult.ipynb의 버전으로 push
