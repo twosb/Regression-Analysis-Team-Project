@@ -40,4 +40,4 @@
 	- 팀원들의 현재까지의 작업물을 TeamResult.ipynb에 종합하기 위해 각자의 작업을 정리
 
 - *2018/06/30 (토)*
-	- 각자 정리한 현재까지의 작업물을 TeamResult.ipynb에 종합하기 위해 GitHub에 각각의 TeamResult.ipynb의 버전으로 push
+	- 각자 정리한 현재까지의 작업물을 TeamResult.ipynb에 종합하기 위해 GitHub에 각각의 TeamResult_이름.ipynb의 버전으로 push
