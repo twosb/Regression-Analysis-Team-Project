@@ -41,3 +41,9 @@
 
 - *2018/06/30 (토)*
 	- 각자 정리한 현재까지의 작업물을 TeamResult.ipynb에 종합하기 위해 GitHub에 각각의 TeamResult_이름.ipynb의 버전으로 push
+
+- *2018/07/01 (월)*
+	- 모델링을 해보기 위해 Missing Value를 imputation하고 모든 자료를 하나로 정리하는 작업
+
+- *2018/07/02 (화)*
+	- imputation된 공통된 하나의 dataset으로 각자 모델링을 시도
